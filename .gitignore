@@ -1,0 +1,4 @@
+*.o
+*.txt
+*.exe
+hyasm
